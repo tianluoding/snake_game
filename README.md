@@ -33,4 +33,5 @@ Springboot + SpringCloud微服务架构，共三个模块
   * 接收后端模块传过来的Bot执行代码，加入任务执行队列
   * 消费线程从任务队列中取任务执行，将执行结果返回给后端模块
 
-![image-20220829095602129](D:\Java_Workplace\snake_game\image-20220829095602129.png)
+![image-20220829095602129](https://raw.githubusercontent.com/tianluoding/snake_game/master/image-20220829095602129.png)
+
